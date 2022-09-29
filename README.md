@@ -1,4 +1,4 @@
-### Hi there 👋
+### 부산대학교 정보컴퓨터공학부 👋
 
 <!--
 **PNUCSE/PNUCSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
