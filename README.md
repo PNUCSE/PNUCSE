@@ -1,5 +1,7 @@
 ### 부산대학교 정보컴퓨터공학부 👋
 
+졸업과제 결과물 제출을 위한 안내는 Capstone-Template repository를 참고하기 바랍니다.
+
 <!--
 **PNUCSE/PNUCSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
