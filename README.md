@@ -12,6 +12,7 @@
 
 ## 전년도 졸업과제 결과물 보기
 
+- [2026 졸업과제 결과물](https://github.com/orgs/pnucse-capstone2026/repositories)  
 - [2025 졸업과제 결과물](https://github.com/orgs/pnucse-capstone2025/repositories)  
 - [2024 졸업과제 결과물](https://github.com/orgs/pnucse-capstone-2024/repositories)  
 - [2023 졸업과제 결과물](https://github.com/orgs/pnucse-capstone/repositories)
